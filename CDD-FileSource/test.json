@@ -1,0 +1,30 @@
+{
+	"objects": [
+		{
+			"version": "1.4",
+			"runOnCreation": false,
+			"applicationVersions": [
+				"Local|LocalApp"
+			],
+			"name": "DSLAGC1",
+			"kind": "Release"
+		},
+		{
+			"environments": [
+				"LocalDev"
+			],
+			"approvalGate": "MANUAL",
+			"release": "DSLAGC1/1.4",
+			"isApprovalRequired": false,
+			"skipTasksWithUnchangedApplications": false,
+			"name": "1st",
+			"kind": "Phase"
+		},
+		{
+			"isDisabled": false,
+			"phase": "DSLAGC1/1.4/1st",
+			"name": "MyManual",
+			"kind": "Task"
+		}
+	]
+}

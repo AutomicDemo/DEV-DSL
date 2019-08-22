@@ -1,0 +1,29 @@
+{
+"parameters": [{
+			"name": "musicUiAppVersion",
+			"value": "99"
+		},
+		{
+			"name": "musicBackendAppVersion",
+			"value": "98"
+		},
+		{
+			"name": "musicImsReleaseVersion",
+			"value": "98"
+		},
+		{
+			"name": "ReleaseVersion",
+			"value": "v4.4"
+		},
+		{
+			"name": "ReleaseName",
+			"value": "MusicAppsToday"
+		}
+		
+	],
+	"reference": {
+		"fileName": "MusicAppsToday_v5.6.json",
+		"fileSource": "OpsRel"
+	}
+
+}
