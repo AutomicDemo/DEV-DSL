@@ -1,19 +1,19 @@
 {
 "parameters": [{
 			"name": "musicUiAppVersion",
-			"value": "100"
+			"value": "101"
 		},
 		{
 			"name": "musicBackendAppVersion",
-			"value": "99"
+			"value": "101"
 		},
 		{
 			"name": "musicImsReleaseVersion",
-			"value": "99"
+			"value": "101"
 		},
 		{
 			"name": "ReleaseVersion",
-			"value": "v4.5"
+			"value": "v4.6"
 		},
 		{
 			"name": "ReleaseName",
