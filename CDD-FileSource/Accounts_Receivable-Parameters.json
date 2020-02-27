@@ -1,0 +1,30 @@
+{
+"parameters": [{
+			"name": "AR-SQL-VER",
+			"value": "F6643"
+		},
+		{
+			"name": "AR-Server-VER",
+			"value": "F6643"
+		},
+		{
+			"name": "AR-GUI-VER",
+			"value": "F6643"
+		},
+		{
+			"name": "RELEASE-VERSION",
+			"value": "F6643"
+		},
+		{
+			"name": "ReleaseName",
+			"value": "Accounts Receivable-FY20Q3
+"
+		}
+		
+	],
+	"reference": {
+		"fileName": "Accounts_Receivable-Objects.json",
+		"fileSource": "OPS-DSL"
+	}
+
+}
