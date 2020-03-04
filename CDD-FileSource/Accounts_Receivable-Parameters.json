@@ -1,19 +1,19 @@
 {
 "parameters": [{
 			"name": "AR-SQL-VER",
-			"value": "master"
+			"value": "F5603"
 		},
 		{
 			"name": "AR-Server-VER",
-			"value": "F77681"
+			"value": "F5603"
 		},
 		{
 			"name": "AR-GUI-VER",
-			"value": "F77681"
+			"value": "F5603"
 		},
 		{
 			"name": "RELEASE-VERSION",
-			"value": "F77681"
+			"value": "F5603"
 		},
 		{
 			"name": "RELEASE-NAME",
@@ -21,7 +21,7 @@
 		},
 	       {
 		       "name": "Run-on-Creation",
-		       "Value": "true"
+		       "Value": "false"
 	       }
 		
 	],
