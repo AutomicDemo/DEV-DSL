@@ -1,19 +1,19 @@
 {
 "parameters": [{
 			"name": "AR-SQL-VER",
-			"value": "F-SQL-77"
+			"value": "F-SQL-78"
 		},
 		{
 			"name": "AR-Server-VER",
-			"value": "F-SER-189"
+			"value": "F-SER-190"
 		},
 		{
 			"name": "AR-GUI-VER",
-			"value": "F-GUI-340"
+			"value": "F-GUI-341"
 		},
 		{
 			"name": "RELEASE-VERSION",
-			"value": "REL-20"
+			"value": "REL-21"
 		},
 		{
 			"name": "RELEASE-NAME",
