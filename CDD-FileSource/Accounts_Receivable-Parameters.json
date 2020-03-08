@@ -1,23 +1,23 @@
 {
 "parameters": [{
 			"name": "AR-SQL-VER",
-			"value": "F-SQL-75"
+			"value": "F-SQL-76"
 		},
 		{
 			"name": "AR-Server-VER",
-			"value": "F-SER-187"
+			"value": "F-SER-188"
 		},
 		{
 			"name": "AR-GUI-VER",
-			"value": "F-GUI-338"
+			"value": "F-GUI-339"
 		},
 		{
 			"name": "RELEASE-VERSION",
-			"value": "REL-18"
+			"value": "REL-19"
 		},
 		{
 			"name": "RELEASE-NAME",
-			"value": "Accounts Receivables-FY20Q4"
+			"value": "Accounts Receivable-FY20Q4"
 		},
 	       {
 		       "name": "Run-on-Creation",
